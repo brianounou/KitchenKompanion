@@ -1,4 +1,4 @@
-# 🍳 Kitchen Kompanion
+# Kitchen Kompanion
 
 A comprehensive Android app to manage your kitchen, reduce food waste, and discover recipes using AI.
 
@@ -196,24 +196,17 @@ app/src/main/java/com/kitchenkompanion/
 
 ## Current Status
 
-**Version**: 1.0.0-beta (Ready for Testing)  
-**Progress**: 95% Complete ✅  
-**Status**: All Core Features Implemented!
+**Version**: 0.5.0-beta 
+**Progress**: 60% Complete 
+**Status**: Working on getting AI features implemented and working
 
 ### What's Working Right Now
-- ✅ Complete authentication and household management
-- ✅ Full pantry CRUD (add, edit, delete items)
-- ✅ Automated expiry and low stock notifications  
-- ✅ Offline-first with automatic cloud sync
-- ✅ Material 3 UI with dark mode
-- ✅ Swipe-to-delete and long-press menus
-- ✅ **Barcode scanning with ML Kit**
-- ✅ **UPC product lookup (OpenFoodFacts)**
-- ✅ **Recipe search by pantry ingredients**
-- ✅ **Smart grocery list with auto-generation**
-- ✅ **AI Assistant (On-device AI with intelligent responses)**
-
-See [IMPLEMENTATION_COMPLETE.md](IMPLEMENTATION_COMPLETE.md) for comprehensive details, [STATUS.md](STATUS.md) for current progress, and [IMPLEMENTATION_STATUS.md](IMPLEMENTATION_STATUS.md) for feature tracking.
+- Complete authentication and household management
+- Full pantry CRUD (add, edit, delete items)
+- Automated expiry and low stock notifications  
+- Offline-first with automatic cloud sync
+- Material 3 UI with dark mode
+- Swipe-to-delete and long-press menus
 
 ## Screenshots
 
@@ -238,6 +231,6 @@ This project is for educational purposes.
 
 ---
 
-Built with ❤️ for reducing food waste
+Built with reducing food waste and improving nutrition in mind
 
 
