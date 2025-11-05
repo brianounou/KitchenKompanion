@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/pantryFragment">
+
+    <fragment
+        android:id="@+id/pantryFragment"
+        android:name="com.kitchenkompanion.features.pantry.PantryFragment"
+        android:label="@string/nav_pantry" />
+
+    <fragment
+        android:id="@+id/recipesFragment"
+        android:name="com.kitchenkompanion.features.recipes.RecipesFragment"
+        android:label="@string/nav_recipes" />
+
+    <fragment
+        android:id="@+id/groceryFragment"
+        android:name="com.kitchenkompanion.features.grocery.GroceryFragment"
+        android:label="@string/nav_grocery" />
+
+    <fragment
+        android:id="@+id/aiFragment"
+        android:name="com.kitchenkompanion.features.ai.AiFragment"
+        android:label="@string/nav_ai" />
+
+</navigation>
+
+
+
+
+
+
+

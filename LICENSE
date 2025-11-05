@@ -1,0 +1,139 @@
+MIT License
+
+Copyright (c) 2025 Kitchen Kompanion Contributors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+## Third-Party Licenses
+
+This project includes or depends on the following third-party software:
+
+### Firebase SDK
+Copyright (c) Google Inc.
+Licensed under the Apache License 2.0
+https://github.com/firebase/firebase-android-sdk
+
+### Android Jetpack Libraries
+Copyright (c) The Android Open Source Project
+Licensed under the Apache License 2.0
+https://source.android.com/
+
+### Material Design Components
+Copyright (c) Google Inc.
+Licensed under the Apache License 2.0
+https://github.com/material-components/material-components-android
+
+### Retrofit
+Copyright (c) Square, Inc.
+Licensed under the Apache License 2.0
+https://github.com/square/retrofit
+
+### OkHttp
+Copyright (c) Square, Inc.
+Licensed under the Apache License 2.0
+https://github.com/square/okhttp
+
+### Gson
+Copyright (c) Google Inc.
+Licensed under the Apache License 2.0
+https://github.com/google/gson
+
+### Glide
+Copyright (c) 2014 Google, Inc.
+Licensed under BSD, part MIT and Apache 2.0
+https://github.com/bumptech/glide
+
+### Lottie
+Copyright (c) Airbnb, Inc.
+Licensed under the Apache License 2.0
+https://github.com/airbnb/lottie-android
+
+### CameraX
+Copyright (c) The Android Open Source Project
+Licensed under the Apache License 2.0
+https://developer.android.com/jetpack/androidx/releases/camera
+
+### ML Kit
+Copyright (c) Google Inc.
+Licensed under the Apache License 2.0
+https://developers.google.com/ml-kit
+
+### WorkManager
+Copyright (c) The Android Open Source Project
+Licensed under the Apache License 2.0
+https://developer.android.com/topic/libraries/architecture/workmanager
+
+### Room Persistence Library
+Copyright (c) The Android Open Source Project
+Licensed under the Apache License 2.0
+https://developer.android.com/topic/libraries/architecture/room
+
+---
+
+## API Attribution
+
+### OpenFoodFacts
+Data provided by Open Food Facts (https://world.openfoodfacts.org/)
+Licensed under the Open Database License (ODbL)
+https://opendatacommons.org/licenses/odbl/1.0/
+
+### Spoonacular API
+Data provided by Spoonacular (https://spoonacular.com/)
+Subject to Spoonacular API Terms of Service
+https://spoonacular.com/food-api/terms
+
+### Edamam API
+Data provided by Edamam (https://www.edamam.com/)
+Subject to Edamam API Terms of Use
+https://www.edamam.com/terms
+
+### USDA FoodData Central
+Data provided by U.S. Department of Agriculture
+Public Domain
+https://fdc.nal.usda.gov/
+
+---
+
+## Icons & Images
+
+Material Symbols and Icons
+Copyright (c) Google Inc.
+Licensed under the Apache License 2.0
+https://fonts.google.com/icons
+
+---
+
+## Additional Notes
+
+- This software is provided for educational and personal use.
+- Commercial use permitted under MIT License terms.
+- Attribution appreciated but not required.
+- External API usage subject to respective service terms.
+- Users must obtain their own API keys for external services.
+- Firebase usage subject to Firebase Terms of Service.
+
+For questions about licensing, please open an issue on the project repository.
+
+
+
+
+
+

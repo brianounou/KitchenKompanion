@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Material 3 seed color - Green theme for kitchen/food -->
+    <color name="seed">#4CAF50</color>
+    
+    <!-- Light theme colors -->
+    <color name="primary_light">#3D6F3C</color>
+    <color name="on_primary_light">#FFFFFF</color>
+    <color name="primary_container_light">#BEF6B8</color>
+    <color name="on_primary_container_light">#00210A</color>
+    
+    <color name="secondary_light">#52634F</color>
+    <color name="on_secondary_light">#FFFFFF</color>
+    <color name="secondary_container_light">#D5E8CF</color>
+    <color name="on_secondary_container_light">#111F0F</color>
+    
+    <color name="tertiary_light">#38656A</color>
+    <color name="on_tertiary_light">#FFFFFF</color>
+    <color name="tertiary_container_light">#BCEAF0</color>
+    <color name="on_tertiary_container_light">#002023</color>
+    
+    <color name="error_light">#BA1A1A</color>
+    <color name="on_error_light">#FFFFFF</color>
+    <color name="error_container_light">#FFDAD6</color>
+    <color name="on_error_container_light">#410002</color>
+    
+    <color name="background_light">#F7FBF2</color>
+    <color name="on_background_light">#191D17</color>
+    <color name="surface_light">#F7FBF2</color>
+    <color name="on_surface_light">#191D17</color>
+    <color name="surface_variant_light">#DDE5DA</color>
+    <color name="on_surface_variant_light">#414941</color>
+    
+    <color name="outline_light">#717970</color>
+    <color name="outline_variant_light">#C1C9BE</color>
+    
+    <!-- Dark theme colors -->
+    <color name="primary_dark">#A3D99D</color>
+    <color name="on_primary_dark">#0F3814</color>
+    <color name="primary_container_dark">#265727</color>
+    <color name="on_primary_container_dark">#BEF6B8</color>
+    
+    <color name="secondary_dark">#B9CCB4</color>
+    <color name="on_secondary_dark">#243423</color>
+    <color name="secondary_container_dark">#3A4B38</color>
+    <color name="on_secondary_container_dark">#D5E8CF</color>
+    
+    <color name="tertiary_dark">#A0CED4</color>
+    <color name="on_tertiary_dark">#00373C</color>
+    <color name="tertiary_container_dark">#1F4D52</color>
+    <color name="on_tertiary_container_dark">#BCEAF0</color>
+    
+    <color name="error_dark">#FFB4AB</color>
+    <color name="on_error_dark">#690005</color>
+    <color name="error_container_dark">#93000A</color>
+    <color name="on_error_container_dark">#FFDAD6</color>
+    
+    <color name="background_dark">#11150F</color>
+    <color name="on_background_dark">#E1E4DC</color>
+    <color name="surface_dark">#11150F</color>
+    <color name="on_surface_dark">#E1E4DC</color>
+    <color name="surface_variant_dark">#414941</color>
+    <color name="on_surface_variant_dark">#C1C9BE</color>
+    
+    <color name="outline_dark">#8B9389</color>
+    <color name="outline_variant_dark">#414941</color>
+    
+    <!-- Expiry status colors -->
+    <color name="status_expired">#D32F2F</color>
+    <color name="status_expiring_soon">#F57C00</color>
+    <color name="status_fresh">#388E3C</color>
+    
+    <!-- Standard colors -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="transparent">#00000000</color>
+</resources>

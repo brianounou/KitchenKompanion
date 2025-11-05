@@ -1,0 +1,34 @@
+{
+  "project_info": {
+    "project_number": "291906710525",
+    "project_id": "kitchen-kompanion-54d04",
+    "storage_bucket": "kitchen-kompanion-54d04.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291906710525:android:ccf8b60e99f877e8e44794",
+        "android_client_info": {
+          "package_name": "com.kitchenkompanion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0QsV29FG2dYRh92uZ4775vbrz87dDMw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
+
+
+
+
+
